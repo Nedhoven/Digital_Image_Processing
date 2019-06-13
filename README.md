@@ -1,6 +1,6 @@
-# Digital_Image_Processing
+# Digital Image Processing
 
 Image processing, blurring, space-frequency handling, noise reduction, and image restoration with Python
 
-### creator: Ned Beigi
+### Creator: Ned Beigi
 Python 3.7
